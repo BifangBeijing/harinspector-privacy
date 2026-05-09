@@ -7,11 +7,11 @@ title: Terms of Use
 
 Effective date: 2026-05-08
 
-These terms apply to HAR Inspector for macOS.
+These terms apply to HAR Inspector for macOS, developed and published by Bifang (Beijing) Technology Co., Ltd.
 
 ## License
 
-Kanata Code grants you a non-transferable license to use HAR Inspector according to the Mac App Store terms and these terms. Some features require HAR Inspector Pro.
+Bifang (Beijing) Technology Co., Ltd. grants you a non-transferable license to use HAR Inspector according to the Mac App Store terms and these terms. Some features require HAR Inspector Pro.
 
 ## Your data and responsibilities
 
@@ -27,11 +27,11 @@ Do not use HAR Inspector to access, process, export, or share data you are not a
 
 ## No warranty
 
-HAR Inspector is provided “as is” without warranties of any kind. Diagnostics, security scans, formatters, and generated exports are best-effort tools and may be incomplete or inaccurate. You should verify important findings independently.
+HAR Inspector is provided "as is" without warranties of any kind. Diagnostics, security scans, formatters, and generated exports are best-effort tools and may be incomplete or inaccurate. You should verify important findings independently.
 
 ## Limitation of liability
 
-To the maximum extent permitted by law, Kanata Code is not liable for indirect, incidental, consequential, special, or punitive damages, or for loss of data, profits, or business opportunities arising from use of the app.
+To the maximum extent permitted by law, Bifang (Beijing) Technology Co., Ltd. is not liable for indirect, incidental, consequential, special, or punitive damages, or for loss of data, profits, or business opportunities arising from use of the app.
 
 ## Changes
 
@@ -39,4 +39,6 @@ These terms may be updated for new features, legal requirements, or operational 
 
 ## Contact
 
-For terms or support questions, contact: support@kanatacode.com
+Bifang (Beijing) Technology Co., Ltd.
+
+For support questions, contact: account1[at]kanatacode[.]com

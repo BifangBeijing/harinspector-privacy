@@ -33,4 +33,6 @@ Exports are saved only to locations you choose. Some exports can contain origina
 
 ## Contact
 
-For privacy questions, contact: privacy@kanatacode.com
+Bifang (Beijing) Technology Co., Ltd.
+
+For privacy questions, contact: account1[at]kanatacode[.]com
